@@ -1,0 +1,9 @@
+﻿VARIAVEL,DESCRICAO,TIPO
+ID_INSCRICAO,Identificador da inscrição no programa. Repete-se nas linhas das atividades da mesma criança.,Texto
+ID_ALUNO,Identificador único da criança na simulação.,Texto
+GENERO,Categoria de gênero usada na simulação: Feminino ou Masculino.,Texto
+IDADE,"Idade da criança em anos completos, de 4 a 14.",Inteiro
+DATA,"Data em que a atividade foi realizada, entre 07/01/2026 e 23/01/2026, em 13 dias úteis.",Data (AAAA-MM-DD)
+HORARIO,Horário de início da atividade. Há quatro horários por dia de comparecimento.,Hora (HH:MM)
+ATIVIDADE,Categoria geral da atividade realizada.,Texto
+DESCRICAO_ATIVIDADE,"Descrição específica da sessão, oficina, jogo ou conteúdo da atividade.",Texto
